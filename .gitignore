@@ -1,0 +1,4 @@
+env/development/ec2-tech-test/.terraform/*
+env/development/ec2-tech-test/.terraform.lock.hcl
+env/development/ec2-tech-test/terraform.tfstate
+env/development/ec2-tech-test/terraform.tfstate.backup
